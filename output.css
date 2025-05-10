@@ -291,6 +291,9 @@
   .h-7 {
     height: calc(var(--spacing) * 7);
   }
+  .h-auto {
+    height: auto;
+  }
   .h-full {
     height: 100%;
   }
